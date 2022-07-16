@@ -1,0 +1,6 @@
+C:\Users\lab2\Desktop\EXERC_03_WHILE\EXERC_03_WHILE\bin\Debug\EXERC_03_WHILE.exe.config
+C:\Users\lab2\Desktop\EXERC_03_WHILE\EXERC_03_WHILE\bin\Debug\EXERC_03_WHILE.exe
+C:\Users\lab2\Desktop\EXERC_03_WHILE\EXERC_03_WHILE\bin\Debug\EXERC_03_WHILE.pdb
+C:\Users\lab2\Desktop\EXERC_03_WHILE\EXERC_03_WHILE\obj\Debug\EXERC_03_WHILE.exe
+C:\Users\lab2\Desktop\EXERC_03_WHILE\EXERC_03_WHILE\obj\Debug\EXERC_03_WHILE.pdb
+C:\Users\lab2\Desktop\EXERC_03_WHILE\EXERC_03_WHILE\obj\Debug\EXERC_03_WHILE.csprojResolveAssemblyReference.cache

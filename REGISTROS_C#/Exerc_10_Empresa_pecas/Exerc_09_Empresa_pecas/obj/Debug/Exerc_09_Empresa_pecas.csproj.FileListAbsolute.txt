@@ -1,0 +1,13 @@
+C:\Users\Maria Célia\Desktop\Exerc_09_Empresa_pecas\Exerc_09_Empresa_pecas\bin\Debug\Exerc_09_Empresa_pecas.exe.config
+C:\Users\Maria Célia\Desktop\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\bin\Debug\Exerc_09_Empresa_pecas.exe.config
+C:\Users\Maria Célia\Desktop\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\bin\Debug\Exerc_09_Empresa_pecas.exe
+C:\Users\Maria Célia\Desktop\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\bin\Debug\Exerc_09_Empresa_pecas.pdb
+C:\Users\Maria Célia\Desktop\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\obj\Debug\Exerc_09_Empresa_pecas.csprojResolveAssemblyReference.cache
+C:\Users\Maria Célia\Desktop\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\obj\Debug\Exerc_09_Empresa_pecas.exe
+C:\Users\Maria Célia\Desktop\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\obj\Debug\Exerc_09_Empresa_pecas.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\bin\Debug\Exerc_09_Empresa_pecas.exe.config
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\obj\Debug\Exerc_09_Empresa_pecas.exe
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\obj\Debug\Exerc_09_Empresa_pecas.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\bin\Debug\Exerc_09_Empresa_pecas.exe
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\bin\Debug\Exerc_09_Empresa_pecas.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_10_Empresa_pecas\Exerc_09_Empresa_pecas\obj\Debug\Exerc_09_Empresa_pecas.csprojResolveAssemblyReference.cache

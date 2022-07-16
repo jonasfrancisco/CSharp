@@ -1,0 +1,6 @@
+C:\Users\Jonas\Desktop\Calcular_maior_Torcida\Calcular_maior_Torcida\bin\Debug\Calcular_maior_Torcida.exe.config
+C:\Users\Jonas\Desktop\Calcular_maior_Torcida\Calcular_maior_Torcida\bin\Debug\Calcular_maior_Torcida.exe
+C:\Users\Jonas\Desktop\Calcular_maior_Torcida\Calcular_maior_Torcida\bin\Debug\Calcular_maior_Torcida.pdb
+C:\Users\Jonas\Desktop\Calcular_maior_Torcida\Calcular_maior_Torcida\obj\Debug\Calcular_maior_Torcida.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\Calcular_maior_Torcida\Calcular_maior_Torcida\obj\Debug\Calcular_maior_Torcida.exe
+C:\Users\Jonas\Desktop\Calcular_maior_Torcida\Calcular_maior_Torcida\obj\Debug\Calcular_maior_Torcida.pdb

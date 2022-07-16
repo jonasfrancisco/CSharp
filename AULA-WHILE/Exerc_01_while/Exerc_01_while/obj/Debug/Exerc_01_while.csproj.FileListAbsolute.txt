@@ -1,0 +1,6 @@
+C:\Users\lab2\Desktop\Exerc_01_while\Exerc_01_while\bin\Debug\Exerc_01_while.exe.config
+C:\Users\lab2\Desktop\Exerc_01_while\Exerc_01_while\bin\Debug\Exerc_01_while.exe
+C:\Users\lab2\Desktop\Exerc_01_while\Exerc_01_while\bin\Debug\Exerc_01_while.pdb
+C:\Users\lab2\Desktop\Exerc_01_while\Exerc_01_while\obj\Debug\Exerc_01_while.csprojResolveAssemblyReference.cache
+C:\Users\lab2\Desktop\Exerc_01_while\Exerc_01_while\obj\Debug\Exerc_01_while.exe
+C:\Users\lab2\Desktop\Exerc_01_while\Exerc_01_while\obj\Debug\Exerc_01_while.pdb

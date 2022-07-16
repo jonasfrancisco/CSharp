@@ -1,0 +1,6 @@
+C:\Users\lab2\Desktop\Estrutura_de_Registro_Simples\Estrutura_de_Registro_Simples\bin\Debug\Estrutura_de_Registro_Simples.exe.config
+C:\Users\lab2\Desktop\Estrutura_de_Registro_Simples\Estrutura_de_Registro_Simples\obj\Debug\Estrutura_de_Registro_Simples.csprojResolveAssemblyReference.cache
+C:\Users\lab2\Desktop\Estrutura_de_Registro_Simples\Estrutura_de_Registro_Simples\bin\Debug\Estrutura_de_Registro_Simples.exe
+C:\Users\lab2\Desktop\Estrutura_de_Registro_Simples\Estrutura_de_Registro_Simples\bin\Debug\Estrutura_de_Registro_Simples.pdb
+C:\Users\lab2\Desktop\Estrutura_de_Registro_Simples\Estrutura_de_Registro_Simples\obj\Debug\Estrutura_de_Registro_Simples.exe
+C:\Users\lab2\Desktop\Estrutura_de_Registro_Simples\Estrutura_de_Registro_Simples\obj\Debug\Estrutura_de_Registro_Simples.pdb

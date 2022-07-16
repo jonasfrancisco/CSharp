@@ -1,0 +1,15 @@
+C:\Users\Jonas Santos\Desktop\Estrutura_Registro\Estrutura_Registro\bin\Debug\Estrutura_Registro.exe.config
+C:\Users\Jonas Santos\Desktop\Estrutura_Registro\Estrutura_Registro\bin\Debug\Estrutura_Registro.exe
+C:\Users\Jonas Santos\Desktop\Estrutura_Registro\Estrutura_Registro\bin\Debug\Estrutura_Registro.pdb
+C:\Users\Jonas Santos\Desktop\Estrutura_Registro\Estrutura_Registro\obj\Debug\Estrutura_Registro.csprojResolveAssemblyReference.cache
+C:\Users\Jonas Santos\Desktop\Estrutura_Registro\Estrutura_Registro\obj\Debug\Estrutura_Registro.exe
+C:\Users\Jonas Santos\Desktop\Estrutura_Registro\Estrutura_Registro\obj\Debug\Estrutura_Registro.pdb
+C:\Users\Jonas Santos\Desktop\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\bin\Debug\Estrutura_Registro.exe.config
+C:\Users\Jonas Santos\Desktop\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\obj\Debug\Estrutura_Registro.exe
+C:\Users\Jonas Santos\Desktop\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\obj\Debug\Estrutura_Registro.pdb
+C:\Users\Jonas Santos\Desktop\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\bin\Debug\Estrutura_Registro.exe
+C:\Users\Jonas Santos\Desktop\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\bin\Debug\Estrutura_Registro.pdb
+C:\Users\Jonas Santos\Desktop\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\obj\Debug\Estrutura_Registro.csprojResolveAssemblyReference.cache
+C:\Users\Jonas Santos\Desktop\REGISTROS_C#\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\bin\Debug\Estrutura_Registro.exe.config
+C:\Users\Jonas Santos\Desktop\REGISTROS_C#\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\obj\Debug\Estrutura_Registro.exe
+C:\Users\Jonas Santos\Desktop\REGISTROS_C#\EXERC_04_Criar_Conta_bancaria\Estrutura_Registro\obj\Debug\Estrutura_Registro.pdb

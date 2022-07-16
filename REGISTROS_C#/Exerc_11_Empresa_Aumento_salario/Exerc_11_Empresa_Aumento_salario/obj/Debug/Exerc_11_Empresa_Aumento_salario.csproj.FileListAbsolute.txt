@@ -1,0 +1,6 @@
+C:\Users\Maria Célia\Desktop\Exerc_11_Empresa_Aumento_salario\Exerc_11_Empresa_Aumento_salario\bin\Debug\Exerc_11_Empresa_Aumento_salario.exe.config
+C:\Users\Maria Célia\Desktop\Exerc_11_Empresa_Aumento_salario\Exerc_11_Empresa_Aumento_salario\bin\Debug\Exerc_11_Empresa_Aumento_salario.exe
+C:\Users\Maria Célia\Desktop\Exerc_11_Empresa_Aumento_salario\Exerc_11_Empresa_Aumento_salario\bin\Debug\Exerc_11_Empresa_Aumento_salario.pdb
+C:\Users\Maria Célia\Desktop\Exerc_11_Empresa_Aumento_salario\Exerc_11_Empresa_Aumento_salario\obj\Debug\Exerc_11_Empresa_Aumento_salario.csprojResolveAssemblyReference.cache
+C:\Users\Maria Célia\Desktop\Exerc_11_Empresa_Aumento_salario\Exerc_11_Empresa_Aumento_salario\obj\Debug\Exerc_11_Empresa_Aumento_salario.exe
+C:\Users\Maria Célia\Desktop\Exerc_11_Empresa_Aumento_salario\Exerc_11_Empresa_Aumento_salario\obj\Debug\Exerc_11_Empresa_Aumento_salario.pdb

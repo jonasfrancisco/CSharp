@@ -1,0 +1,12 @@
+C:\Users\Jonas Santos\Desktop\Exerc_05_Cadastros\Exerc_05_Cadastros\bin\Debug\Exerc_05_Cadastros.exe.config
+C:\Users\Jonas Santos\Desktop\Exerc_05_Cadastros\Exerc_05_Cadastros\bin\Debug\Exerc_05_Cadastros.exe
+C:\Users\Jonas Santos\Desktop\Exerc_05_Cadastros\Exerc_05_Cadastros\bin\Debug\Exerc_05_Cadastros.pdb
+C:\Users\Jonas Santos\Desktop\Exerc_05_Cadastros\Exerc_05_Cadastros\obj\Debug\Exerc_05_Cadastros.csprojResolveAssemblyReference.cache
+C:\Users\Jonas Santos\Desktop\Exerc_05_Cadastros\Exerc_05_Cadastros\obj\Debug\Exerc_05_Cadastros.exe
+C:\Users\Jonas Santos\Desktop\Exerc_05_Cadastros\Exerc_05_Cadastros\obj\Debug\Exerc_05_Cadastros.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_05_Cadastros\Exerc_05_Cadastros\bin\Debug\Exerc_05_Cadastros.exe.config
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_05_Cadastros\Exerc_05_Cadastros\obj\Debug\Exerc_05_Cadastros.exe
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_05_Cadastros\Exerc_05_Cadastros\obj\Debug\Exerc_05_Cadastros.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_05_Cadastros\Exerc_05_Cadastros\bin\Debug\Exerc_05_Cadastros.exe
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_05_Cadastros\Exerc_05_Cadastros\bin\Debug\Exerc_05_Cadastros.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_05_Cadastros\Exerc_05_Cadastros\obj\Debug\Exerc_05_Cadastros.csprojResolveAssemblyReference.cache

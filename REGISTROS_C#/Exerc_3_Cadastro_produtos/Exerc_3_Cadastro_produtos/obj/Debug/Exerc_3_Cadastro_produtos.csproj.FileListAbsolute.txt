@@ -1,0 +1,6 @@
+C:\Users\lab2\Desktop\Exerc_3_Cadastro_produtos\Exerc_3_Cadastro_produtos\bin\Debug\Exerc_3_Cadastro_produtos.exe.config
+C:\Users\lab2\Desktop\Exerc_3_Cadastro_produtos\Exerc_3_Cadastro_produtos\bin\Debug\Exerc_3_Cadastro_produtos.exe
+C:\Users\lab2\Desktop\Exerc_3_Cadastro_produtos\Exerc_3_Cadastro_produtos\bin\Debug\Exerc_3_Cadastro_produtos.pdb
+C:\Users\lab2\Desktop\Exerc_3_Cadastro_produtos\Exerc_3_Cadastro_produtos\obj\Debug\Exerc_3_Cadastro_produtos.csprojResolveAssemblyReference.cache
+C:\Users\lab2\Desktop\Exerc_3_Cadastro_produtos\Exerc_3_Cadastro_produtos\obj\Debug\Exerc_3_Cadastro_produtos.exe
+C:\Users\lab2\Desktop\Exerc_3_Cadastro_produtos\Exerc_3_Cadastro_produtos\obj\Debug\Exerc_3_Cadastro_produtos.pdb

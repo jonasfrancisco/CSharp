@@ -1,0 +1,5 @@
+C:\Users\lab2\Desktop\EXERC_05_WHILE\EXERC_05_WHILE\bin\Debug\EXERC_05_WHILE.exe.config
+C:\Users\lab2\Desktop\EXERC_05_WHILE\EXERC_05_WHILE\bin\Debug\EXERC_05_WHILE.exe
+C:\Users\lab2\Desktop\EXERC_05_WHILE\EXERC_05_WHILE\bin\Debug\EXERC_05_WHILE.pdb
+C:\Users\lab2\Desktop\EXERC_05_WHILE\EXERC_05_WHILE\obj\Debug\EXERC_05_WHILE.exe
+C:\Users\lab2\Desktop\EXERC_05_WHILE\EXERC_05_WHILE\obj\Debug\EXERC_05_WHILE.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maria Célia\Desktop\Exerc_11_Calc_Salario_Categorias\Exerc_11_Calc_Salario_Categorias\bin\Debug\Exerc_11_Calc_Salario_Categorias.exe.config
+C:\Users\Maria Célia\Desktop\Exerc_11_Calc_Salario_Categorias\Exerc_11_Calc_Salario_Categorias\bin\Debug\Exerc_11_Calc_Salario_Categorias.exe
+C:\Users\Maria Célia\Desktop\Exerc_11_Calc_Salario_Categorias\Exerc_11_Calc_Salario_Categorias\bin\Debug\Exerc_11_Calc_Salario_Categorias.pdb
+C:\Users\Maria Célia\Desktop\Exerc_11_Calc_Salario_Categorias\Exerc_11_Calc_Salario_Categorias\obj\Debug\Exerc_11_Calc_Salario_Categorias.csprojResolveAssemblyReference.cache
+C:\Users\Maria Célia\Desktop\Exerc_11_Calc_Salario_Categorias\Exerc_11_Calc_Salario_Categorias\obj\Debug\Exerc_11_Calc_Salario_Categorias.exe
+C:\Users\Maria Célia\Desktop\Exerc_11_Calc_Salario_Categorias\Exerc_11_Calc_Salario_Categorias\obj\Debug\Exerc_11_Calc_Salario_Categorias.pdb

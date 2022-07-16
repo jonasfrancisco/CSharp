@@ -1,0 +1,12 @@
+C:\Users\Maria Célia\Desktop\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\bin\Debug\Exerc_09_Comissao_Corretores.exe.config
+C:\Users\Maria Célia\Desktop\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\bin\Debug\Exerc_09_Comissao_Corretores.exe
+C:\Users\Maria Célia\Desktop\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\bin\Debug\Exerc_09_Comissao_Corretores.pdb
+C:\Users\Maria Célia\Desktop\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\obj\Debug\Exerc_09_Comissao_Corretores.csprojResolveAssemblyReference.cache
+C:\Users\Maria Célia\Desktop\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\obj\Debug\Exerc_09_Comissao_Corretores.exe
+C:\Users\Maria Célia\Desktop\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\obj\Debug\Exerc_09_Comissao_Corretores.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\bin\Debug\Exerc_09_Comissao_Corretores.exe.config
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\obj\Debug\Exerc_09_Comissao_Corretores.exe
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\obj\Debug\Exerc_09_Comissao_Corretores.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\bin\Debug\Exerc_09_Comissao_Corretores.exe
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\bin\Debug\Exerc_09_Comissao_Corretores.pdb
+C:\Users\Maria Célia\Desktop\REGISTROS_C#\Exerc_09_Comissao_Corretores\Exerc_09_Comissao_Corretores\obj\Debug\Exerc_09_Comissao_Corretores.csprojResolveAssemblyReference.cache
