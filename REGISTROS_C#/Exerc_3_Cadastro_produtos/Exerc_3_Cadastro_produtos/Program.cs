@@ -15,8 +15,6 @@ namespace Exerc_3_Cadastro_produtos
             public string nome;
             public float COD;
             public float PRECO;
-           
-
 
         }
 
@@ -37,11 +35,8 @@ namespace Exerc_3_Cadastro_produtos
                 Console.Write("Informar PRECO  : ");
                 PESQ[I].PRECO = float.Parse(Console.ReadLine());
 
-
                 Console.Write("Informar CODIGO : ");
                 PESQ[I].COD = float.Parse(Console.ReadLine());
-
-
 
             }
 
@@ -53,17 +48,10 @@ namespace Exerc_3_Cadastro_produtos
                 Console.WriteLine("{0} {1} ", PESQ[I].nome, PESQ[I].COD);
                 
 
-
             }
-            
-
-
-            
-            
-            
+             
             Console.Write("Fazer Pesquisa -S -N :  ");
             RESP = Console.ReadLine();
-
 
             while (RESP == "S")
             {
@@ -83,54 +71,25 @@ namespace Exerc_3_Cadastro_produtos
 
                     else
                     {
-
-
                         I++;
-
-
                     }
-                   
-
-
-
                 }
                 if (ACHA == true)
                 {
-
-
                     Console.WriteLine("PRECO DO PRODUTO  : " + PESQ[I].PRECO);
-
                 }
-
                 else
                 {
-
                     Console.WriteLine(" NAo Encontrado ");
-
                 }
-
-
+                
                 Console.WriteLine("Continuar Pesq -S-N");
                 RESP = Console.ReadLine();
             }
-
-
+            
             Console.WriteLine();
 
-
-
-
-
-
-            Console.ReadKey();  
-
-
-
-
-
-
-        
-        
+            Console.ReadKey();         
         }
     }
 }
