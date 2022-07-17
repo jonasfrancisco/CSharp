@@ -18,23 +18,15 @@ namespace EXERC_05_WHILE
             while(NUM !=-1)
             {
                
-              
                 if(NUM<MENOR)
                 {
                     MENOR_V = NUM;
-
                 }
                 Console.Write("ENTRE COM  Valor : " );
                 NUM = int.Parse(Console.ReadLine());
-     
-            
+   
             }
             Console.WriteLine("Menor valor é {0}", MENOR_V);
-            
-             
-
-
-            
             
             Console.ReadKey();
 
