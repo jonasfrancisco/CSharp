@@ -11,7 +11,6 @@ namespace Exerc_3_Cadastro_produtos
 
         public struct CAD_PROD
         {
-
             public string nome;
             public float COD;
             public float PRECO;
@@ -28,7 +27,6 @@ namespace Exerc_3_Cadastro_produtos
 
             for (I = 0; I <= 1; I++)
             {
-
                 Console.Write("Informar NOME PRODUTO: ");
                 PESQ[I].nome = Console.ReadLine();
 
@@ -46,8 +44,6 @@ namespace Exerc_3_Cadastro_produtos
             {
 
                 Console.WriteLine("{0} {1} ", PESQ[I].nome, PESQ[I].COD);
-                
-
             }
              
             Console.Write("Fazer Pesquisa -S -N :  ");
@@ -62,13 +58,10 @@ namespace Exerc_3_Cadastro_produtos
                 I = 0;
                 while (ACHA == false)
                 {
-
                     if (float.Parse (PESQ1 )== (PESQ[I].COD))
                     {
-
                         ACHA = true;
                     }
-
                     else
                     {
                         I++;
